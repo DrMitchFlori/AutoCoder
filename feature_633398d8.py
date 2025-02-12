@@ -1,0 +1,3 @@
+{
+  "code": "{\n    \"file\": \"frontend/medical_website.jsx\",\n    \"type\": \"create\",\n    \"location\": \"App component\",\n    \"code\": \"import React from 'react';\\n\\nconst App = () => {\\n    return (\\n        <div className=\\\"black-and-gold-theme\\\">\\n            <h1>Welcome to the Medical Portal!</h1>\\n            <p>Choose your role:</p>\\n            <button>Patients Portal</button>\\n            <button>Admin Portal</button>\\n            <button>Doctor Portal</button>\\n        </div>\\n    );\\n};\\n\\nexport default App;\"\n}"
+}
